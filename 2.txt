@@ -1,2 +1,3 @@
 This is the second file
 updated next line
+3rd line updated
